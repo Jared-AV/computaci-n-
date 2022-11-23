@@ -1,0 +1,117 @@
+﻿\documentclass[11pt,A5paper]{article}
+\usepackage[utf8]{inputenc}
+
+
+
+
+\usepackage{titlesec}
+\usepackage[rmargin=2.5cm, lmargin=3cm, tmargin=5cm, bmargin=6cm]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\pagecolor{purple}
+\color{white}
+\title{La deconstrucción del Amor}
+\author{Aguirre Jared }
+\date{September 2022}
+
+
+
+
+\begin{document}
+
+
+
+
+\begin{center}
+   \textcolor{yellow}{\textbf{\textsc{\underline{\Huge{La deconstrucción del amor}}}}}
+\end{center}
+
+
+
+
+\rfoot{Sección 1}
+\rhead{Jared Aguirre}
+\section{500 days of summer}
+\subsection{reseña}
+500 days of summer es una película que fue lanzada el 17 de Junio del 2009 y fue dirigida por Marc Webb y escrita por Scott Neustadter y Michael H. Weber.
+La película habla de Tom y como él ve o percibe su relación con Summer quien es su interés amoroso, pero que expone una realidad difícil de admitir para los escritores de este tipo historias.
+
+
+
+
+Mediante esta premisa tan simple o convencional como una "simple historia de amor" es como se forma una critica hacia precisamente todo este tipo de historias, esta se logra o se lleva a cabo mediante exactamente la misma contruccion narrativa donde un chico conoce a una chica y esta pasa a ser un ser que llena de sentido la vida de nuestro protagonista, siendo o convirtiendose en un mero complemento del mismo, como si esta fuera creada con la unica funcion de ser y existir para nuestro protagonista, porque como en muchas obras asi es, no es una interpretacion, es la realidad de una vision machista de los escritores de una mujer que no existe, siendo que se ignora completamente su desarrollo personal, como una especie de personaje "acartonado" hecho unicamente para nuestro protagonista, entonces en la historia, mediante Tom siendo la interpretacion enteramente de este tipo de personajes tan arquetipicos y summer tambien uno de ellos hae una critica en forma de estos paralelismos que existen entre la expectativa contra la realidad en el climax de la cinta dando de esa forma una satira hacia todos esos escritores de historias de amor, muy al estilo del quijote (guardando las distancias, claramente) donde se adopta al arquetipo y lo destroza, ofreciendo asi una historia honesta que podemos sentir real.
+\newpage
+\subsection{Elenco}
+\begin{enumerate}
+    \item + Joseph Gordon-Levitt como Tom Hansen (personaje principal).
+    \item + Zooey Deschanel como Summer Finn (personaje secundario)
+    \item + Geoffrey Arend como McKenzie (personaje secundario).
+    \item + Chloë Grace Moretz como Rachel Hansen (personaje secundario).
+    \item + Matthew Gray Gubler como Paul (personaje secundario).
+    \item + Clark Gregg como Vance (personaje secundario).
+    \item + Patricia Belcher como Millie (personaje secundario).
+    \item + Rachel Boston como Alison (personaje secundario).
+    \item + Minka Kelly como Autumn (personaje secundario).
+\end{enumerate}
+\rfoot{Sección 1}
+\newpage
+\subsection{Personajes}
+\begin{enumerate}
+    \item * Tom Hansen:Es un personaje hiperilusionado con esta vision "romantica" del amor.
+    \item * Summer Finn:Se muestra al inicio como una persona muy negada a tener una relacion romantica con alguien pero se desarrolla como una persona que crece y se da cuenta de que es lo que quiere.
+    \item * McKenzie:Es solo un amigo de Tom el cual no se desarrolla demasiado.
+    \item * Rachel Hansen:Es la hermana menor de Tom y nos muestra de una forma muy madura y critica como es que Tom ideaiza a Summer.
+    \item * Paul:Sirve como una muestra de un personaje desarrollado deconstruido consiente de como es que funciona el amor.
+    \item * Vance:Es un personaje meramente de relleno siendo el jefe de Summer y Tom.
+    \item * Autumn:Es mas que personaje es un simbolismo de como empieza una nueva etapa en Tom hacia la madurez como una persona nueva y deconstruida.
+\end{enumerate}
+\rfoot{Sección 1}
+\newpage
+\subsection{Imagen}
+
+
+
+
+\begin{figure}
+    \flushright
+    \caption{inicio y final}
+    \includegraphics[scale=0.3,angle=15]{R.png}
+    \label{fig:my_label}
+\end{figure}
+\rfoot{Sección 1}
+\newpage
+\lhead{2. Razones}
+\rhead{Jared Aguirre}
+\section{Razones}
+\rfoot{Sección 2}
+Elegí esta pelicula, porque es mi pelicula favorita, me parece una obra super sincera de un asunto tan común como lo es la idealizacion infantil del amor por parte de cualquier persona, este pensamiento la verdad es que tambien me ayudo mucho a mi desarrollo personal, siento que madure no solo por la pelicula evidentemente pero fue la que impulso la refleccion en mi y esta misma me llevaria a una deconstrucción de mi persona.
+En asuntos tecnicos, la imagen, el guion y simbolismos me parecen espectaculares y más aun considerando que fue una produccion independiente.
+\newpage
+\begin{figure}
+    \centering
+    \caption{Paul y Rachael, personajes GOD}
+    \includegraphics[scale=0.6,angle=-18]{OIP.jpg}
+    \label{fig:my_label}
+\end{figure}
+Paul y Rachael son mis personajes favoritos por el nivel de madurez que muestran siendo o sirviendo como un simbolo de la razon o de una visión más real que la de nuestro protagonista y que nos dan de los mejores dalogos de la pelicula, breves pero espectaculares.
+\begin{figure}
+    \centering
+    \caption{Summer y Tom, no los odio pero vaya estres}
+    \includegraphics[scale=0.6,angle=8]{OIP (1).jpg}
+    \label{fig:my_label}
+    \end{figure}
+    Summer y Tom no son personajes que detesto ni nada en realidad no hay un solo personaje que yo deteste de esta pelicula sin embargo en muchas ocaciones si llegaban a ser desesperantes finalmente al ser los dos personajes principales son sus arcos los que se desarrollan, entonces tiene sentido el que lo hagan, el punto es precisamente mostrar todo eso.
+
+
+
+
+    Finalmente mi frase favorita es una escena de Paul donde se nos muestra la inmadurez de Tom por medio del desarrollo de Paul.
+    "En teoria "la chica de mis sueños" probablemente tendria unos mejores atributos fisico,tal vez otro cabello y seguramente seria más deportista pero... La verdad es que Robin, Robin es mucho mejor que la chica de mis sueños... Es real"(mientras Tom no sabe que pensar al respecto).
+
+
+
+
+\end{document}
