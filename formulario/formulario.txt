@@ -143,36 +143,3 @@
         $$c(a+b)=((a)(c))+((c)(b)).$$
     \end{itemize}
 \end{document}
-
-
-\rhead{Jared Aguirre}
-\section{Razones}
-\rfoot{Sección 2}
-Elegí esta pelicula, porque es mi pelicula favorita, me parece una obra super sincera de un asunto tan común como lo es la idealizacion infantil del amor por parte de cualquier persona, este pensamiento la verdad es que tambien me ayudo mucho a mi desarrollo personal, siento que madure no solo por la pelicula evidentemente pero fue la que impulso la refleccion en mi y esta misma me llevaria a una deconstrucción de mi persona.
-En asuntos tecnicos, la imagen, el guion y simbolismos me parecen espectaculares y más aun considerando que fue una produccion independiente.
-\newpage
-\begin{figure}
-    \centering
-    \caption{Paul y Rachael, personajes GOD}
-    \includegraphics[scale=0.6,angle=-18]{OIP.jpg}
-    \label{fig:my_label}
-\end{figure}
-Paul y Rachael son mis personajes favoritos por el nivel de madurez que muestran siendo o sirviendo como un simbolo de la razon o de una visión más real que la de nuestro protagonista y que nos dan de los mejores dalogos de la pelicula, breves pero espectaculares.
-\begin{figure}
-    \centering
-    \caption{Summer y Tom, no los odio pero vaya estres}
-    \includegraphics[scale=0.6,angle=8]{OIP (1).jpg}
-    \label{fig:my_label}
-    \end{figure}
-    Summer y Tom no son personajes que detesto ni nada en realidad no hay un solo personaje que yo deteste de esta pelicula sin embargo en muchas ocaciones si llegaban a ser desesperantes finalmente al ser los dos personajes principales son sus arcos los que se desarrollan, entonces tiene sentido el que lo hagan, el punto es precisamente mostrar todo eso.
-
-
-
-
-    Finalmente mi frase favorita es una escena de Paul donde se nos muestra la inmadurez de Tom por medio del desarrollo de Paul.
-    "En teoria "la chica de mis sueños" probablemente tendria unos mejores atributos fisico,tal vez otro cabello y seguramente seria más deportista pero... La verdad es que Robin, Robin es mucho mejor que la chica de mis sueños... Es real"(mientras Tom no sabe que pensar al respecto).
-
-
-
-
-\end{document}
