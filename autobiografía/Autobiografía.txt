@@ -1,0 +1,30 @@
+﻿\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+
+\title{Dos personas decidieron no cuidarse y así va...}
+\author{Aguirre Vera Jared Emmanuel }
+\date{lundes 12 de septiembre 2022}
+
+
+\begin{document}
+
+
+\maketitle
+
+
+\section{Academía}
+\subsection{Pasado}
+{\huge Estudié el bachillerato en la ENP 5 josé Vasconcelos}, o al menos eso se dice, entre pandemia y paros termine llendo muy pocos meses, pero tal vez no estaba tan mal, la escuela me quedaba lejísimos, bueno no tan lejos pero el llegar era muy lento, para llegar a la preparatoria mis padres me llevaban en carro hacía Milpa Alta, {\footnotesize ahí tomaba un camión que era exclusivo para estudiantes de mi escuela y ya seguía una ruta donde pasaba por Tláhuac, Xochimilco y finalmente llegaba a Tlalpan} y pues ahí estaba la prepa en total, {\tiny de ida eran como 2 horas, de regreso era horrible porque eran de 2 horas y media a 3 horas} por el tráfico y a eso había que añadir el calor que era verdaderamente insoportable, por eso, el hecho de tener clases virtuales igual no fue tan malo.
+\subsection{Actualidad}
+Actualmente todo es más sencillo, ya no vivo hasta el estado de México, mis padres me mandaron a rentar por acá, a veces es un poco tener que lidiar con el hecho de tener que adaptarse a la soledad, la escuela ayuda bastante en ese aspecto, el problema es que a veces quizá a consecuencia de la misma soledad, las ganas de hacer algo relacionado a ella, pero en fin. 
+En cuestiones de traslado es muy sencillo, literalmente solo {\Large salgo y pasa una combi que tarda en llegar al metro 20 minutos} de ahí camino hacia la facultad en total son como 25 min de traslado lo cual chistosamente es lo más cerca que he estado de cualquiera de mis escuelas anteriores en todos los niveles académicos.
+\subsection{la Física y el como llegamos a esto}
+En realidad desde que estaba en la primaria en 5to aproximadamente yo empece a tener contacto con lo que era la fisica como campo de estudio totalmente enfatizado en eso y fue muy interasante para mi, desde aquel entonces intentaba tener algunas clases sobre fisica o almenos comprenderla a nivel de conceptos, es algo que en ese entonces me tenia maravillado pero entre tanto llego un punto a finales de secundaría donde persi un poco de interes, y empece a interesarme mucho en la filosofía y las ciencias sociales, asi estuve practicamente la mitad del bachillerato cuando ya estaba cerca la eleccion del area estaba muy indecsiso, habia tantas cosas que me interesaban estudiar que me abrumaba el hecho de no ser realmente feliz con cualquiera de mis elecciones agobiandome el hecho de que incluso en la misma area habia mas opciones que me podian gustar mas, un punto importante aqui es que en A1 la unica opcion que me gustaba en realidad era Fisica entonces decidi entrar en A1, asi no podria tener esas dudas de arrepentimiento o lo que sea (en realidad si, pero me hace feliz el pensar que así era más sencillo) y ademas \textsc{ me parece que la fisica envuelve muchas cosas de las que me gustan, la fisica misma, las matematicas y la filosofía}, al final esa es la razon por la cual ahora estoy aqui, en el primer semestre de la carrera.
+\section{Hobbies}
+Me gusta mucho practicar deportes, el que más {\Huge practico es el basquetbol}, sin embargo, con más tiempo he practicado {\tiny natación, atletismo, fútbol y squash, en general me gusta mucho competir}, por cuestiones de la escuela al basquetbol únicamente le dedicó unas \texttt{15 horas} a veces unas menos.
+También me gusta mucho {\footnotesize el Ajedrez y la música}, practicaba guitarra pero para ser sincero la ejecución de la música nunca fue muy lo mío y {\LARGE actualmente ya no realizó ninguno de los dos}.
+\section{Musica}
+La música que más me gusta es como el {\Huge indie y lo escucho en realidad en cualquier momento}, cuando más música escucho es cuando hago tarea o cuando me traslado entre las bandas o cantantes que más escucho están {\tiny The Strokes, Arctic Monkeys y clairo} entre otros.
+Otro tipo de música que me gusta mucho, \textsc{no sabría muy bien como que genero es} o bueno los escucho revueltos porque si son canciones/artistas que escucho más cuando quiero cantar por ejemplo, {\large Kevin Kaarl, Bratty, José José, Ximena Sariñana, Ed Maverick}, etc.
+\end{document}
