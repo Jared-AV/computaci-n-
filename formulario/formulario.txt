@@ -1,0 +1,178 @@
+﻿\documentclass[12pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[rmargin=2.5cm,lmargin=2.5cm,tmargin=3cm,bottom=3cm]{geometry}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+    \pagestyle{fancy}
+        \fancyhf{}
+        \rhead{\textcolor{black}{Aguirre Vera Jared Emmanuel }}
+        \cfoot{\textcolor{black}{\thepage}}
+
+
+\usepackage[x5names]{xcolor}
+\usepackage{caption}
+\usepackage[rightcaption]{sidecap}
+
+
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{dsfont}
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+
+
+\begin{document}
+  \lhead{\textcolor{black}{\textsc{Física}}}
+\pagecolor{orange}
+\color{green}
+\begin{center}
+    {\textcolor{red}{\textbf{\textsc{\Huge{¿No todo es despejar x?}}}}}
+\end{center}
+\section*{Física}
+\begin{itemize}
+    \item[\$] \textbf{\underline{{Velocidad media}}}\newline
+    La velocidad media es la relación que existe entre el desplazamiento y el tiempo de un cuerpo y es esencial en el estudio de la mecánica clásica.
+    $$V={x1-x0}/{t1-t0}.$$
+    \item[\%]\textbf{\underline{{Segunda ley de Newton}}}\newline
+    La segunda ley de Newton tambien llamada ley de inercia es una de las tres leyes del movimiento de la mecanica clasica.
+     $$F=ma.$$
+     \item[\#]\textbf{\underline{{Tensión superficial}}}\newline
+     La tensión superficial es un fenómeno en el cual un líquido actúa como una fina lamina.
+     $${gamma}=F/d.$$
+     \item[\&]\textbf{\underline{{Presión}}}\newline
+     La presión que ejerce una fuerza una fuerza está dada por la misma fuerza entre la superficie o área en la que se aplica.
+     $$P=F/A.$$
+     \item[:] \textbf{\underline{{Energía}}}\newline
+     Quizá la fórmula más famosa de la física ideada por Albert Einstein y establece que la energía es igual a la masa.
+     $$E=mc^{2}.$$
+\end{itemize}
+\newpage
+  \lhead{\textcolor{black}{\textsc{Química}}}
+   \section*{Química}
+  \begin{itemize}
+      \item[\$] \textbf{\underline{{Molariadad.}}}\newline
+     La molaridad se define como el número de moles de un soluto entre el volumen de la disolución.
+      $$M = nso / Vsn.$$
+      \item[\#] \textbf{\underline{{viscosidad.}}}\newline
+      viscosidad cinemática se puede definir como la resistencia de un fluido a moverse como un fluido debe hacerlo.
+      $$v={mu}/{rho}.$$
+        \item[\%] \textbf{\underline{{Densidad.}}}\newline
+        La densidad se refiera a la cantidad de masa en un espacio determinado, es decir es una relación entre la más y el volumen.
+        $$P=m/V.$$
+        \item[\&] \textbf{\underline{Numero de Moles.}}\newline
+        %pues, ¿qué puedo decir? Xd, creo el nombre e bastante explicito.
+        El número de moles es una relación entre la masa y el peso de la molécula es como resultado de esto la definición del número de moles.
+        $$Nm=m/pm.$$
+        \item[:] \textbf{\underline{{Concentración    Porcentual.}}}\newline
+        La concentración porcentual, evaluada en masa/volumen, expresa la masa en gramos de soluto en cada 100cm cúbicos de disolución.  
+        $$C=m/v.$$
+  \end{itemize}
+   \newpage
+    \lhead{\textcolor{black}{\textsc{Cálculo}}}
+    \section*{Cálculo}
+    \begin{itemize}
+        \item[\$] \textbf{\underline{{Ley de tricotomía.}}}\newline
+        Es un axioma de campo y nos habla de que para cualquier número a en los Reales solo puede ser alguno de los tres casos.
+        $$(a) {a} = 0,
+          (b) {a} pertenece a R+,
+          (c) {-a} pertenece a R+.$$
+        \item[\#] \textbf{\underline{{Transitividad.}}}\newline
+        La transitividad se refiera a una cualidad respecto a al menos dos desigualdades que comparten algún valor y compara los otros dos en función del valor común respecto a la desigualdad con este.
+        $$Si, a < b y b < c, entonces, a < c.$$
+        \item[\%] \textbf{\underline{{Desigualdad del Triíangulo.}}}\newline
+        Esta es una propiedad del valor absuloto y nos dice que la suma del valor absoluto es mayor o igual a la suma de los valores absolutos.
+        $$|a| + |b| = |a| + |b|.$$
+        \item[\&] \textbf{\underline{Propiedad Arquimediana.}}\newline
+        Establece que entre dos números reales cueles quiera existe algún natural tal que crea una relación de desigualdad.
+       \begin{center}
+        Sea y en R y x mayor que 0, existe n en N tal que.
+        $$nx > y.$$
+       \end{center} 
+        \item[:] \textbf{\underline{{Teorema Bolzano-Weinstass.}}}\newline
+        El teorema dice que para toda sucesión acotada tiene al menos una subsucesión convergente.
+        $$sea\{An\} Existe \{Ank\} convergente.$$
+    \end{itemize}
+    \newpage
+    \lhead{\textcolor{black}{\textsc{Geometría.}}}
+    \section*{Geometría.}
+    \begin{itemize}
+        \item[\$] \textbf{\underline{{Perímetro.}}}\newline
+        El perímetro es igual a la suma de todos los lados de una figura excepto en las que tienen sectores circulares.
+        $$P=l1+l2+ln.$$
+        \item[\%] \textbf{\underline{{Volumen.}}}\newline
+        El volumen de casi cualquier figura es producto del área de la base por la altura de la misma, (solo para figuras cilíndricas).
+        $$V=Ah$$
+        \item[\&] \textbf{\underline{Teorema de Pitágoras.}}\newline
+        El teorema de Pitágoras es una ecuación que nos sirve para calcular la hipotenusa de un triángulo rectángulo a partir de la suma del cuadrado de sus catetos.
+        $$h^{2}=Co^{2}+Ca^{2}$$
+        \item[\#] \textbf{\underline{{Área para un círculo.}}}\newline
+         El área de un círculo es muy particular porque el circulo es una figura muy particular y para obtenerla usamos uno de los símbolos más famosos del mundo {Pi}.
+         $$A={Pi}(r{2})$$
+        \item[:] \textbf{\underline{{Teorema de Thales.}}}\newline
+        Si dos rectas cualesquiera se cortan por varias rectas paralelas, los segmentos determinados en una de las rectas son proporcionales a los segmentos correspondientes en la otra estableciendo una relacion entre segmentos.
+       $$A=a,y,E=e$$
+    \end{itemize}
+    \newpage
+    \lhead{\textcolor{black}{\textsc{Matemáticas.}}}
+    \section*{Matemáticas.}
+    \begin{itemize}
+        \item[:] \textbf{\underline{{Conmutatividad.}}}\newline
+        Se dice que una operación (suma o producto) es conmutativa si al modificar el orden de sus elementos el resultado de la operación es el mismo.
+        $$a+b=b+a,ab=ba.$$
+        \item[\#] \textbf{\underline{{Asociatividad.}}}\newline
+        Para cuales quiera dos números reales se cumple que la suma y el producto son asociativos es decir se pueden resolver en el orden que sea.
+        $$(a+b)+c=a+(b+c), ((a)(b))(c)=(a)((b)(c)).$$
+        \item[\&] \textbf{\underline{Inversos.}}\newline
+        Para cualquier número real a, distinto de 0, existe un
+        número real b tal que.
+        $$ab=1.$$
+        Para cualquier número real a existe un número real b tal que.
+        $$a+b=0.$$
+        \item[\%] \textbf{\underline{{Neutros.}}}\newline
+        Existe un número real, que denotaremos por
+        0, tal que.
+        $$a+0=a.$$
+         Existe un número real, distinto del
+         0, que denotaremos por 1, tal que
+        $$a(1)=a.$$
+        \item[\%] \textbf{\underline{{Distributividad.}}}\newline
+        La distributividad nos dice que el producto de una suma es la suma de los productos.
+        $$c(a+b)=((a)(c))+((c)(b)).$$
+    \end{itemize}
+\end{document}
+
+
+\rhead{Jared Aguirre}
+\section{Razones}
+\rfoot{Sección 2}
+Elegí esta pelicula, porque es mi pelicula favorita, me parece una obra super sincera de un asunto tan común como lo es la idealizacion infantil del amor por parte de cualquier persona, este pensamiento la verdad es que tambien me ayudo mucho a mi desarrollo personal, siento que madure no solo por la pelicula evidentemente pero fue la que impulso la refleccion en mi y esta misma me llevaria a una deconstrucción de mi persona.
+En asuntos tecnicos, la imagen, el guion y simbolismos me parecen espectaculares y más aun considerando que fue una produccion independiente.
+\newpage
+\begin{figure}
+    \centering
+    \caption{Paul y Rachael, personajes GOD}
+    \includegraphics[scale=0.6,angle=-18]{OIP.jpg}
+    \label{fig:my_label}
+\end{figure}
+Paul y Rachael son mis personajes favoritos por el nivel de madurez que muestran siendo o sirviendo como un simbolo de la razon o de una visión más real que la de nuestro protagonista y que nos dan de los mejores dalogos de la pelicula, breves pero espectaculares.
+\begin{figure}
+    \centering
+    \caption{Summer y Tom, no los odio pero vaya estres}
+    \includegraphics[scale=0.6,angle=8]{OIP (1).jpg}
+    \label{fig:my_label}
+    \end{figure}
+    Summer y Tom no son personajes que detesto ni nada en realidad no hay un solo personaje que yo deteste de esta pelicula sin embargo en muchas ocaciones si llegaban a ser desesperantes finalmente al ser los dos personajes principales son sus arcos los que se desarrollan, entonces tiene sentido el que lo hagan, el punto es precisamente mostrar todo eso.
+
+
+
+
+    Finalmente mi frase favorita es una escena de Paul donde se nos muestra la inmadurez de Tom por medio del desarrollo de Paul.
+    "En teoria "la chica de mis sueños" probablemente tendria unos mejores atributos fisico,tal vez otro cabello y seguramente seria más deportista pero... La verdad es que Robin, Robin es mucho mejor que la chica de mis sueños... Es real"(mientras Tom no sabe que pensar al respecto).
+
+
+
+
+\end{document}
