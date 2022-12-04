@@ -1,0 +1,52 @@
+
+Tarea 7.ipynb
+Tarea 7.ipynb_
+Revision de los conceptos básicos de Python.
+
+Ejercicio 1
+
+Los nombres reservados en python son palabras las cuales no podemos usar para definir culquier cosa que queramos por ejemplo una lista y esto es porque dichas palabras reservadas cumplen ya una funcion en el lenguaje de Python, ejemplos de ellos son:
+
+If:se usa para imponer una condicion de la forma que si pasa tal cosa entonces sucede otra.
+For:Es usado al momento de querer iterar o hacer un cicloen el programa
+And:Es un operador logico que significa si y solo si
+Def:Nos ayuda a definir funciones
+Try:Nos permiten tratar el qué hacer cuando las cosas no salen como esperamos.
+
+Ejercicio 2
+
+No podemos definir a las variables de esta forma porque son las pabalabras reservadas de Python, si pudieramos hacer esto al momento de hacer codigo y querer usar las funciones de estas palabras obtendriamos las variables o visceversa esto haria al codigo ineficiente e inutil.
+
+if = x+1
+for = x+1
+try = x+1
+
+t = 3.3700002 #Tiempo en segundos
+m = 100 #masa en kilogramos
+g = 9.8 #valor de la gravedad
+v = 0 #velocidad inicial
+
+def Altura(t,m,v):
+  g = 9.8
+  H = (v*t+(1/2)*g*t**2)
+print ("La altura, en metros, es:")
+print (H)
+La altura, en metros, es:
+55.64881660520019
+
+Ejercicio 5
+
+[ ]
+lista = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99]
+[ ]
+print (lista[90:100])
+[90, 91, 92, 93, 94, 95, 96, 97, 98, 99]
+[ ]
+print (lista[0:11])
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+[ ]
+print (lista[60:76])
+[60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75]
+[ ]
+print (lista[50])
+50
